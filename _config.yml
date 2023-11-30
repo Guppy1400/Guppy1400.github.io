@@ -302,6 +302,9 @@ collections:
   Network_Traffic_Analysis:
     output: true
     permalink: /:collection/:path/
+  Number_Text_Conversion:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
