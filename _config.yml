@@ -151,6 +151,8 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
+#Site Search 
+search: true
 
 # Reading Files
 include:
@@ -277,6 +279,29 @@ compress_html:
   ignore:
     envs: development
 
+#collections
+collections:
+  CyberChef:
+    output: true
+    permalink: /:collection/:path/
+  Ciphers:
+    output: true
+    permalink: /:collection/:path/
+  Steganography:
+    output: true
+    permalink: /:collection/:path/
+  Crytography_Decoders:
+    output: true
+    permalink: /:collection/:path/
+  Password_Cracking:
+    output: true
+    permalink: /:collection/:path/
+  Scanning:
+    output: true
+    permalink: /:collection/:path/
+  Network_Traffic_Analysis:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -297,3 +322,12 @@ defaults:
       type: pages
     values:
       layout: single
+
+  # _tools
+  - scope:
+      path: ""
+      type: tools
+    values:
+      layout: single
+      author_profile: false
+      share: true
