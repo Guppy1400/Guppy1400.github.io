@@ -1,7 +1,7 @@
 ---
-title: CyberChef
+title: Scanning
 layout: collection
-collection: CyberChef
+collection: Scanning
 entries_layout: grid
 classes: wide
 ---

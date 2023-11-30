@@ -1,8 +1,7 @@
 ---
-title: CyberChef
+title: Network_Traffic_Analysis
 layout: collection
-permalink: /Network-Traffic-Analysis.md/
-collection:  Network_Traffic_Analysis.md 
+collection:  Network_Traffic_Analysis 
 entries_layout: grid
 classes: wide
 ---

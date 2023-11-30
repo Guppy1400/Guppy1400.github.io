@@ -1,8 +1,7 @@
 ---
-title: CyberChef
+title: Number_Text_Conversion
 layout: collection
-permalink: /cyberchef/
-collection: CyberChef
+collection: Number_Text_Conversion
 entries_layout: grid
 classes: wide
 ---
