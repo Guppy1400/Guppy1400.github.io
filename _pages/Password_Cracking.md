@@ -1,7 +1,7 @@
 ---
-title: "Scanning"
+title: "Password Cracking"
 layout: collection
-collection: Scanning
+collection: Password_Cracking
 entries_layout: grid
 classes: wide
 ---

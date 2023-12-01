@@ -1,7 +1,7 @@
 ---
-title: "Scanning"
+title: "Steganography"
 layout: collection
-collection: Scanning
+collection: Steganography
 entries_layout: grid
 classes: wide
 ---

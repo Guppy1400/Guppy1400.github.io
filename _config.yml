@@ -284,9 +284,6 @@ collections:
   CyberChef:
     output: true
     permalink: /:collection/:path/
-  Ciphers:
-    output: true
-    permalink: /:collection/:path/
   Steganography:
     output: true
     permalink: /:collection/:path/
